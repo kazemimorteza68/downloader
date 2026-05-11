@@ -6,6 +6,7 @@
 - [google-chrome-stable_current_amd64](./google-chrome-stable_current_amd64)
 - [ioncube_loaders_lin_x86-64](./ioncube_loaders_lin_x86-64)
 - [sublime-text_build-4180_amd64](./sublime-text_build-4180_amd64)
+- [ungoogled-chromium_124.0.6367.118-1.1_amd64](./ungoogled-chromium_124.0.6367.118-1.1_amd64)
 
 ---
 
