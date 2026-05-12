@@ -6,6 +6,7 @@
 - [docker-buildx-plugin_0.17.1-1~ubuntu.24.04~noble_amd64](./docker-buildx-plugin_0.17.1-1~ubuntu.24.04~noble_amd64)
 - [docker-ce-cli_27.3.1-1~ubuntu.24.04~noble_amd64](./docker-ce-cli_27.3.1-1~ubuntu.24.04~noble_amd64)
 - [docker-ce_27.3.1-1~ubuntu.24.04~noble_amd64](./docker-ce_27.3.1-1~ubuntu.24.04~noble_amd64)
+- [docker-compose-plugin_2.29.7-1~ubuntu.24.04~noble_amd64](./docker-compose-plugin_2.29.7-1~ubuntu.24.04~noble_amd64)
 - [firefox-150.0.2.tar](./firefox-150.0.2.tar)
 - [google-chrome-stable_current_amd64](./google-chrome-stable_current_amd64)
 - [ioncube_loaders_lin_x86-64](./ioncube_loaders_lin_x86-64)
